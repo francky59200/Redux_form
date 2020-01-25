@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+.input__item {
+  width: 180px;
+  text-align: center;
+  border: 0;
+  padding: 0;
+  margin: 10px 0;
+  background: transparent;
+  font: 20px sans-serif;
+}
+
+span {
+  cursor: pointer;
+
+  border: 1px solid black;
+  border-radius: 30px;
+  padding: 5px 5px;
+  margin-left: 5px;
+}
